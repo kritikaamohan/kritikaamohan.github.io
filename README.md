@@ -1,4 +1,4 @@
-# Kritika Mohan — AI/ML Researcher & Data Scientist Portfolio
+# Kritika Mohan — AI/ML Researcher Portfolio
 
 A modern, high-performance personal portfolio and research showcase designed with an ultra-clean **light-mode aesthetic**, **floating glass pill navigation**, **modular bento grids**, and **custom vector SVG micro-icons**. Built with pure vanilla web technologies — no bundlers, frameworks, or dependencies required.
 
